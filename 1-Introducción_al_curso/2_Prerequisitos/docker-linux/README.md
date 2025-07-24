@@ -1,6 +1,6 @@
 # 🐳 Guía Universal para Instalar Docker en Linux
 
-Valido para la mayoria de distribuciones
+Válido para la mayoria de distribuciones.
 
 ## 🔍 Paso 1: Verificar instalación de Docker
 
